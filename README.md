@@ -9,7 +9,7 @@ You may need a machine with GPUs and Pytorch v1.6.0 or v1.2.0 for Python 3
 Our implementation adopts 300d GloVe for word embedding. 
 The glove.42B.300d.txt can be downloaded from https://nlp.stanford.edu/data/glove.42B.300d.zip
 
-##Data and Preprocessing
+## Data and Preprocessing
 ### Dataset
 The SIND dataset can be downloaded from the Visual Storytelling website.
 The sampled TACoS-Ordering dataset  can be downloaded from https://anonfiles.com/3ckfl0Tfx9/TACoS-Ordering-images_zip and https://anonfiles.com/Ndhem7Tcxb/tacos_annotation_zip
